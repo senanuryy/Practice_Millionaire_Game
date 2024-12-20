@@ -1,7 +1,5 @@
 # Practice_Millionaire_Game
 
-# Kim Milyoner Olmak İster?
-
 Bu uygulama, kullanıcıya 2 şıklı 3 adet soru sorarak bir bilgi yarışması gerçekleştirir. Kullanıcı 3 sorudan en az 2 tanesini doğru cevapladığında büyük ödül olan **1 Milyon TL**'yi kazanır.
 
 ## Özellikler
